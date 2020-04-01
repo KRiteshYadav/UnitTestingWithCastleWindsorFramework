@@ -1,0 +1,8 @@
+C:\Users\KY185041\source\repos\CMS.BL\CMS.BL\bin\Debug\netstandard2.0\CMS.BL.deps.json
+C:\Users\KY185041\source\repos\CMS.BL\CMS.BL\bin\Debug\netstandard2.0\CMS.BL.dll
+C:\Users\KY185041\source\repos\CMS.BL\CMS.BL\bin\Debug\netstandard2.0\CMS.BL.pdb
+C:\Users\KY185041\source\repos\CMS.BL\CMS.BL\obj\Debug\netstandard2.0\CMS.BL.csprojAssemblyReference.cache
+C:\Users\KY185041\source\repos\CMS.BL\CMS.BL\obj\Debug\netstandard2.0\CMS.BL.AssemblyInfoInputs.cache
+C:\Users\KY185041\source\repos\CMS.BL\CMS.BL\obj\Debug\netstandard2.0\CMS.BL.AssemblyInfo.cs
+C:\Users\KY185041\source\repos\CMS.BL\CMS.BL\obj\Debug\netstandard2.0\CMS.BL.dll
+C:\Users\KY185041\source\repos\CMS.BL\CMS.BL\obj\Debug\netstandard2.0\CMS.BL.pdb
